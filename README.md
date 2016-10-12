@@ -1,5 +1,4 @@
 Fork Bomb
 =========
 
-The classic self-replicating program.
-For safety of my own computer this only uses memory, not disk space.
+Currently just contains a memory bomb. If you decide to execute this, ending the process should free up all your memory after a couple seconds.
